@@ -1,0 +1,1 @@
+# wkhtmltopdf-symfony4
