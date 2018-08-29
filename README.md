@@ -4,7 +4,7 @@
 
 ## Install
 
-1. Run `composer require "jjcarmu/wkhtmltopdf-symfony4:~0.12.5"`
+1. Run `composer require "jjcarmu/wkhtmltopdf-symfony4:dev-master"`
 
 2. All the binaries are symlinked to the following paths:
 
